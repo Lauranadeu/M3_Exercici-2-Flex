@@ -74,3 +74,9 @@
         .peu {
             background: #F0A500;
         }
+
+@media all and (max-width: 800px) {
+    .section{
+        flex-direction: column;
+    }
+}
